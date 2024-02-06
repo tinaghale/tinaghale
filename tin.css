@@ -1,0 +1,17 @@
+body{
+    padding-top: 30;
+    padding-left: 50;
+    padding-right:50px;
+    padding: bottom 30px;
+    background-color: rgb(255, 0, 212);
+}
+.image_wrapper{
+    text-align: center;
+}
+img{ 
+    width: 100px;
+    height: 100px;px;
+    border-radius: 200%;
+}
+h1 {
+    text-align: center;
